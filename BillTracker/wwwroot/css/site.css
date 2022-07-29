@@ -11,8 +11,11 @@ html {
 html {
   position: relative;
   min-height: 100%;
+  font-family: Raleway
 }
-
+*:not(.fa-solid):not(.fa):not(.e-icons) {
+    font-family: "Raleway"
+}
 body {
   margin-bottom: 60px;
   background-color: #12161d;
@@ -21,6 +24,24 @@ body {
 
 .e-bigger {
     font-size: x-large;
+}
+
+/*BreadCrumb*/
+.e-breadcrumb a, .e-breadcrumb a:hover {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+/*Button*/
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none;
+}
+
+/*Hyperlink*/
+.no-a-decoration, .no-a-decoration:hover {
+    text-decoration: none;
+    color: inherit;
 }
 
 /*Grid*/
