@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kmIAWzjAMJAtI/b9k+cjg3xxbEeKnjCAo4K102cTQfI=",
+  "Hash": "ommhI3bJjDIXbkwQUcdMmV8WYnUI+5OkOF7TrhcAD+0=",
   "Source": "BillTracker",
   "BasePath": "_content/BillTracker",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BillTracker.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\Business-Manager-Job-Description.jpeg",
+      "SourceId": "BillTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\",
+      "BasePath": "_content/BillTracker",
+      "RelativePath": "Business-Manager-Job-Description.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Business-Manager-Job-Description.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\css\\site.css",
       "SourceId": "BillTracker",
       "SourceType": "Discovered",
@@ -1103,6 +1120,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\favicon-32x32.png",
+      "SourceId": "BillTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\",
+      "BasePath": "_content/BillTracker",
+      "RelativePath": "favicon-32x32.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon-32x32.png"
+    },
+    {
+      "Identity": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\images.png",
+      "SourceId": "BillTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\",
+      "BasePath": "_content/BillTracker",
+      "RelativePath": "images.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images.png"
     },
     {
       "Identity": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\wwwroot\\js\\site.js",

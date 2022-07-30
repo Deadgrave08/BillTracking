@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BillTracker.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BillTracker.Controllers
 {
+    [Authorize]
     public class CategoriesController : Controller
     {
         private readonly BillContext _context;
