@@ -8,77 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BillTracker
 build_property.RootNamespace = BillTracker
-build_property.ProjectDir = C:\Users\mohd.arif3\source\repos\BillTracker\BillTracker\
+build_property.ProjectDir = C:\Users\aman.maurya2\source\repos\project\BillTracker\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mohd.arif3\source\repos\BillTracker\BillTracker
+build_property.MSBuildProjectDirectory = C:\Users\aman.maurya2\source\repos\project\BillTracker
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Categories/AddOrEdit.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Categories/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGRPckVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Categories/Details.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Categories/Index.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Dashboard/Index.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Home/Index.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Home/Privacy.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Shared/Error.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Shared/_SideBar.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Transactions/AddOrEdit.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Transactions/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEFkZE9yRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Transactions/Details.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Transactions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Transactions/Index.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Transactions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/_ViewImports.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/_ViewStart.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohd.arif3/source/repos/BillTracker/BillTracker/Views/Shared/_Layout.cshtml]
+[C:/Users/aman.maurya2/source/repos/project/BillTracker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sink1eb483

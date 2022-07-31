@@ -9943,19 +9943,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mohd.arif3\\.nuget\\packages\\": {}
+    "C:\\Users\\aman.maurya2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\BillTracker.csproj",
+      "projectUniqueName": "C:\\Users\\aman.maurya2\\source\\repos\\project\\BillTracker\\BillTracker.csproj",
       "projectName": "BillTracker",
-      "projectPath": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\BillTracker.csproj",
-      "packagesPath": "C:\\Users\\mohd.arif3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohd.arif3\\source\\repos\\BillTracker\\BillTracker\\obj\\",
+      "projectPath": "C:\\Users\\aman.maurya2\\source\\repos\\project\\BillTracker\\BillTracker.csproj",
+      "packagesPath": "C:\\Users\\aman.maurya2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aman.maurya2\\source\\repos\\project\\BillTracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mohd.arif3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aman.maurya2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -32,6 +32,7 @@ body {
     margin-left: 290px;
     overflow-y:auto;
     height:80vh;
+
 }
 /*BreadCrumb*/
 .e-breadcrumb a, .e-breadcrumb a:hover {
@@ -280,3 +281,14 @@ img.profile-pic{
     .widget.chart {
         padding: 5px;
     }
+.nav-item {
+    display: flex;
+    text-align: right;
+}
+.navbar-nav{
+    margin-left:1125px;
+    justify-content:flex-end;
+}
+
+    
+   
